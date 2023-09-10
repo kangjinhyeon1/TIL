@@ -14,7 +14,7 @@
 
 만약 궁금한 것이 생겨 구글에 검색을 했을 때 특정 키워드를 입력 후 사람들은 가장 상위에 노출된 페이지를 열람하게 된다. 이때 검색엔진 결과 페이지에서 웹사이트 또는 웹페이지의 상위 노출도를 높이는 작업이 SEO입니다.
 
-![SEO.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2891bd9d-bdf7-4986-a5a5-dae5abfb44ca/SEO.png)
+![SEO](https://github.com/AI-Expo-2023/Chromatica-Client-V1/assets/100929676/806be77b-c1f6-410a-97e6-2b7eaff0b835)
 
 - 위와 같이 상위 노출 되는 검색 결과는 2개가 있다.
 - organic Search는 자연 검색된 결과로 일반사용자들이 올린 결과이다.
@@ -27,9 +27,8 @@
 
 ### ❗메타태그(Meta-Tag)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/425b0bf2-b3d5-45c4-b7e2-9ea77b6c0795/Untitled.png)
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3395f390-13b9-4ffc-8596-6b76093b9f0d/Untitled.png)
+<img width="325" alt="메타1" src="https://github.com/AI-Expo-2023/Chromatica-Client-V1/assets/100929676/74df5a8d-aa03-432f-a9ab-2b412e962009">
+<img width="236" alt="메타2" src="https://github.com/AI-Expo-2023/Chromatica-Client-V1/assets/100929676/28901409-1bea-4d2f-9102-2da89322317d">
 
 **<title> 태그**
 
@@ -45,7 +44,7 @@
 
 메타 태그중 title태그 만큼 중요한 태그이며 해당 웹페이지에 설명을 요약하여 한 두 줄의 문장을 의미한다. 대부분의 사용자는 디스크립션을 확인후 자신이 찾고 있던 정보가 담겨있는지 아닌지를 판단한다. 따라서 최대한 잘 읽히는 문장으로 작성해야한다.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e28a69c6-646c-4615-9f3d-9188156dd2d9/Untitled.png)
+<img width="621" alt="description" src="https://github.com/AI-Expo-2023/Chromatica-Client-V1/assets/100929676/ae64058d-44b3-42d8-b040-c0b8b027fa33">
 
 ```jsx
 <meta content="오늘도 굉장히 힘들고 어썸한 수업을 듯고 계시는군요 히히" name="description">
